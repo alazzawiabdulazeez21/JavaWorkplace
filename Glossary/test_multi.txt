@@ -1,0 +1,6 @@
+word
+first definition
+
+text
+second definition
+
